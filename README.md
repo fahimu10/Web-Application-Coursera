@@ -1,1 +1,1 @@
-# Coursera Resource
+# Course Resource
