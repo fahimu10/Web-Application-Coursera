@@ -1,1 +1,1 @@
-# Course Resource
+# Course Workspace
